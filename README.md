@@ -1,10 +1,14 @@
 # NK-agency
 
-`npm install` to get all dependencies
-`npm start` dev mode
-`npm build` prod mode
+![Alt](https://github.com/Klipfel-Nicolas/NK-agency/blob/master/public/assets/img/accueil.gif)
 
 ## Description
 
-React.
-Dummy web agency project, with animation.
+Un projet de decouverte React, concevoire un site pour une agence web fictive.
+
+![Alt](https://github.com/Klipfel-Nicolas/NK-agency/blob/master/public/assets/img/projects.gif)
+
+
+## Techno
+
+![React.js](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
