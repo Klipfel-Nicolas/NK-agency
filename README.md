@@ -4,7 +4,9 @@
 
 ## Description
 
-Un projet de decouverte React, concevoire un site pour une agence web fictive.
+Un projet pour découvrir React.
+
+Objectif : concevoir un site pour une agence web fictive.
 
 ![Alt](https://github.com/Klipfel-Nicolas/NK-agency/blob/master/public/assets/img/projects.gif)
 
